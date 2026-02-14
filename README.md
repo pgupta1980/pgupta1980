@@ -297,6 +297,8 @@ Extend Claude's capabilities with Model Context Protocol servers:
 ## 📫 Connect With Me
 
 - GitHub: [@pgupta1980](https://github.com/pgupta1980)
+- LinkedIn: [Prasenjit Gupta](https://www.linkedin.com/in/prasenjit-gupta-3093892/)
+- Twitter/X: [@prasenjitgupta](https://x.com/prasenjitgupta)
 
 ---
 
